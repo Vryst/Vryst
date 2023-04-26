@@ -4,10 +4,8 @@
 
 <h4>I'm a :</h4>
 
-> **Blank**
+**Python Programmer**
 
-> **Blank**
+> I'm still in the learning stage of python
 
-> **Blank**
 
-> **Blank**
