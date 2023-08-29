@@ -1,4 +1,4 @@
-# Hi, I'm Vryst
+# Hello, I'm Vryst
 > Just a random guy trying to make some games
 
 ## I'm using :
