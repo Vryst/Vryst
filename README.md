@@ -1,11 +1,6 @@
-<h2>Hello!</h2>
+# Hi, I'm Vryst
+> Just a random guy trying to make some games
 
-<h3>My name is Rizky A.S / Kyas</h3>
-
-<h4>I'm a :</h4>
-
-**Python Programmer**
-
-> I'm still in the learning stage of python
-
+## I'm using :
+[![Language](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
