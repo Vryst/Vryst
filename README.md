@@ -21,3 +21,7 @@ Feel free to reach out through the following platforms:
 
 
 - **Instagram**: <br>[@otong_shippuden202](https://www.instagram.com/otong_shippuden202/)<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="10%" height="auto">
+
+## Badge
+- Codewars
+  <br>[Vryst](https://www.codewars.com/users/Vryst)<img src="https://www.codewars.com/users/Vryst/badges/large">
